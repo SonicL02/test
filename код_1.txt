@@ -1,0 +1,6 @@
+import numpy as np
+num = int(input("введите число"))
+if num % 2 ==0:
+    print("четное число", num)
+else:
+    print("нечетное число")
